@@ -12,6 +12,7 @@ class FizzBuzzTest {
         //GIVEN
         int number = 4;
 
+
         //WHEN
         String actual = FizzBuzz.fizzbuzz(number);
         String expected = "4";
